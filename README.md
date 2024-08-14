@@ -3,7 +3,7 @@
 ### Starting template for my projects with
 
 <ul>
-  <li>NextJS (App Route)</li>
+  <li>NextJS (<b>Pages</b> Route)</li>
   <li>Tailwind (with custom config)</li>
   <li>SaSS</li>
   <li>ESLint</li>
