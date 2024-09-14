@@ -5,7 +5,7 @@
 <ul>
   <li>NextJS (App Route)</li>
   <li>Tailwind (with custom config)</li>
-  <li>SaSS</li>
+  <li>CSS</li>
   <li>ESLint</li>
 </ul>
 
